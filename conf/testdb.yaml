@@ -1,0 +1,6 @@
+username: "root"
+password: "******"
+host: "jcpe.guiduo.link"
+port: 3306
+db: "test"
+table: "user"
