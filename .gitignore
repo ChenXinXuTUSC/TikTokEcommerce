@@ -1,0 +1,8 @@
+/.vscoe
+/.idea
+/build
+/out
+
+*.out
+*.bin
+*.log
